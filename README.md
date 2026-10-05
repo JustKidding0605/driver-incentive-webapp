@@ -24,7 +24,6 @@ Every action is logged for audit, and all data flows respect role-based boundari
 - Impersonation flow so support staff can troubleshoot as another user without password sharing
 - Application pipeline for drivers to join sponsor programs
 - Audit log for every point change and administrative action
-- [Any other features — notifications, reports, driver app integration, etc.]
 
 ## My role
 
