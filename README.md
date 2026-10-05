@@ -4,8 +4,7 @@ A multi-role web application that connects trucking companies with their drivers
 
 Built as a Senior Design capstone (Clemson University, CPSC 4910, Spring 2026) over 15 weeks with a team 5 students
 
-<img width="1440" height="900" alt="Screenshot 2026-10-05 at 7 06 39 PM" src="https://github.com/user-attachments/assets/b4b8b4a9-52e7-43d2-a23a-0f6375645035" />
-
+<img width="1440" height="683" alt="Screenshot 2026-10-05 at 7 25 46 PM" src="https://github.com/user-attachments/assets/b8cf1ec2-0817-4c16-83b3-0c327f6ed053" />
 
 ## What it does
 
